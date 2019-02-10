@@ -1,0 +1,6 @@
+/home/anuchak/Desktop/llvm-7.0.1.src/FuncBlockCount/build/CMakeFiles/edit_cache.dir
+/home/anuchak/Desktop/llvm-7.0.1.src/FuncBlockCount/build/CMakeFiles/intrinsics_gen.dir
+/home/anuchak/Desktop/llvm-7.0.1.src/FuncBlockCount/build/CMakeFiles/rebuild_cache.dir
+/home/anuchak/Desktop/llvm-7.0.1.src/FuncBlockCount/build/FuncBlockCount/CMakeFiles/edit_cache.dir
+/home/anuchak/Desktop/llvm-7.0.1.src/FuncBlockCount/build/FuncBlockCount/CMakeFiles/LLVMFuncBlockCount.dir
+/home/anuchak/Desktop/llvm-7.0.1.src/FuncBlockCount/build/FuncBlockCount/CMakeFiles/rebuild_cache.dir
